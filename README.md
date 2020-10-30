@@ -2,14 +2,14 @@
 
 
 
-- 🔭 My current profession ... Student
-- 🌱 I’m currently learning ... Economics
-- 👯 I’m looking to collaborate on ... Maybe YouTube
-- 🤔 I’m looking for help with ... Coding
-- 💬 Ask me about ...   Economics
-- 📫 How to reach me: ... [Googke Form 📑 ](https://surveyheart.com/form/5e7d9e334bcc5e6e06a95a2b#welcome)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... If you don't mind...😂
+- 🔭 My current profession ...⏩ Student
+- 🌱 I’m currently learning ...⏩ Economics
+- 👯 I’m looking to collaborate on ...⏩ Maybe YouTube
+- 🤔 I’m looking for help with ...⏩ Coding
+- 💬 Ask me about ... ⏩  Economics
+- 📫 How to reach me: ...⏩ [Googke Form 📑 ](https://surveyheart.com/form/5e7d9e334bcc5e6e06a95a2b#welcome)
+- 😄 Pronouns: ...⏩ He/Him
+- ⚡ Fun fact: ...⏩ If you don't mind...😂
 
 <img src="https://github.com/dattatray3/DattatrayDagale/blob/main/Banner.png"/>
  <hr></hr>
