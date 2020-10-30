@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m current profession ... Student
+- 🔭 My current profession ... Student
 - 🌱 I’m currently learning ... Economics
 - 👯 I’m looking to collaborate on ... Maybe YouTube
 - 🤔 I’m looking for help with ... Coding
