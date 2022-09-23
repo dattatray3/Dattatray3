@@ -29,6 +29,7 @@ Have graed day...👍 👍 👍
 Let's be a friends...👏 👏 👏 
 <footer>
 							<ul class="icons">
+							<li><a href="https://dattatraydagale.blogspot.com/" class="icon brands fa-Blogger">Blog</a></li>
 								<li><a href="https://www.linkedin.com/in/dattatray-dagale-962135181" class="icon brands fa-linkedin">Linkedin</a></li>
 								<li><a href="https://mobile.twitter.com/DattatrayDagale" class="icon brands fa-twitter">Twitter</a></li>
 								<li><a href="https://www.instagram.com/dattatray_dagale/" class="icon brands fa-instagram">Instagram</a></li>
